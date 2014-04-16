@@ -1,0 +1,7 @@
+".container": {
+	width: 1024,
+    height: 768,
+    backgroundColor:'white',
+    top: 0,
+    left: 0,
+}

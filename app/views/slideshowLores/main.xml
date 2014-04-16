@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" onOpen='load'>
+		<View id="content" ></View>
+		<View id='close'></View>
+	</Window>
+</Alloy>

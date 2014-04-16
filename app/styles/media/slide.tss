@@ -1,0 +1,15 @@
+".container": {
+    width: 1024,
+    height: 768,
+    contentWidth: 1024,
+    contentHeight: 768,
+    maxZoomScale: 3.0,
+    top: 0,
+    left: 0
+},
+"#image": {
+    width: 1024,
+    height: Ti.UI.SIZE,
+    defaultImage: '/images/empty.png',
+    image: '/images/empty.png'
+}

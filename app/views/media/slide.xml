@@ -1,0 +1,5 @@
+<Alloy>
+	<ScrollView class="container">
+		<ImageView id="image"></ImageView>
+	</ScrollView>
+</Alloy>

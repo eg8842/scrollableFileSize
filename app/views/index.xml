@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Label id="labely1" onClick="openLoRes">Low Res</Label>
+		<Label id="labely2" onClick="openHiRes">Hi Res</Label>
+	</Window>
+</Alloy>
