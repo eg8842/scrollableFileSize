@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><ti:app xmlns:ti="http://ti.appcelerator.org">
-	<id>ccom.cobalt.dealers</id>
+	<id>com.scrollableFileSize.sfs</id>
 	<name>lol</name>
 	<version>1.0</version>
 	<publisher>not specified</publisher>
-	<url>http://jestercom.com</url>
+	<url>http://eg8842.com</url>
 	<description>not specified</description>
 	<copyright>not specified</copyright>
 	<icon>appicon.png</icon>
@@ -57,7 +57,7 @@
 		<target device="mobileweb">false</target>
 		<target device="tizen">false</target>
 	</deployment-targets>
-	<sdk-version>3.1.3.GA</sdk-version>
+	<sdk-version>3.2.2.GA</sdk-version>
 <plugins><plugin version="1.0">ti.alloy</plugin>
 </plugins>
 </ti:app>
